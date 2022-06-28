@@ -6,3 +6,7 @@ Some Useful ArchLinux Commands you may find yourself needing to use at some poin
     pacman-key --refresh-keys
 - If you want to see your Internet connections (Servers) try:<br/>
     netstat -tulpen
+- If you want to remove those connections:<br/>
+    sudo kill (port)<br/>
+    pkill (port)
+- (coming soon...)
